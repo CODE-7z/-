@@ -1,0 +1,1 @@
+-worldwide -novid -tickrate 128 -high -nojoy -preload -processheap -noforcemparms -d3d9ex -console
